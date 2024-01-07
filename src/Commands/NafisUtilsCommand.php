@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Nafisphp\NafisUtils\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class NafisUtilsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'nafis-utils';
 
     public $description = 'My command';
 
