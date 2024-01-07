@@ -2,9 +2,9 @@
 
 namespace Nafisphp\NafisUtils;
 
+use Nafisphp\NafisUtils\Commands\NafisUtilsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Nafisphp\NafisUtils\Commands\NafisUtilsCommand;
 
 class NafisUtilsServiceProvider extends PackageServiceProvider
 {

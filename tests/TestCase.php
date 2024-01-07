@@ -3,8 +3,8 @@
 namespace Nafisphp\NafisUtils\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Nafisphp\NafisUtils\NafisUtilsServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
